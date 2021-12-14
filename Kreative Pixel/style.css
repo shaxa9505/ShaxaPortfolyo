@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    width: 1000px;
+    height: 400px;
+    border: 1px solid red;
+    margin: auto;
+    /*position: relative;*/
+
+}
+
+body{
+   margin-top: 50px;
+}
+.box1{
+    width: 150px;
+    height: 100px;
+    border: 1px solid blue;
+   background: red;
+    /*position: fixed;*/
+    /*top: 200px;*/
+    /*right: 500px;*/
+}
+
+.box2{
+    width: 150px;
+    height: 100px;
+    border: 1px solid blue;
+   background: yellow;
+    /*position: absolute;*/
+    /*top: 200px;*/
+    /*right: 200px;*/
+
+
+}
+
+.box3{
+    width: 150px;
+    height: 100px;
+    border: 1px solid blue;
+    background: black;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
